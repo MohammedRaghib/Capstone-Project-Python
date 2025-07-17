@@ -84,7 +84,7 @@ def download():
             status_label.config(text="Ready to download", fg="gray")
 
 window = tk.Tk()
-window.title('YouTube Downloader (yt-dlp + ffmpeg)')
+window.title('QuickTube')
 window.geometry('350x400')
 window.configure(bg='white')
 
